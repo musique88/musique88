@@ -29,7 +29,7 @@ I'm currently learning a bunch of things:
     - Rust
     - 6502 assembly
     - x86 assembly
-    - Arm assenbly
+    - Arm assembly
 
 
 <!--
