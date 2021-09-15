@@ -5,9 +5,10 @@ I am a student in Computer Science.
 I'm fluent in:
 - C#
 - GLSL
-- GDScript
 - Lua
 - SCLang
+- C
+- C++
 
 I have experience in:
 - Linux System Adminstration
@@ -17,15 +18,13 @@ I have experience in:
 - Supercollider audio
 - Rivendell Radio Systems
 - Fragment Shader Programming
+- Digital Signal Processing
 
 I'm currently learning a bunch of things:
 - Operating system developpement
-- Digital Signal Processing
 - OpenGL
 - Proper Github git workflow
 - A bunch of programming languages
-    - C
-    - C++
     - Rust
     - 6502 assembly
     - x86 assembly
