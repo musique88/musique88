@@ -3,12 +3,13 @@ My name is William Bouillon.
 I am a student in Computer Science.
 
 I'm fluent in:
+- C
+- C++
+- Java
 - C#
 - GLSL
 - Lua
 - SCLang
-- C
-- C++
 
 I have experience in:
 - Linux System Adminstration
@@ -21,6 +22,7 @@ I have experience in:
 - Digital Signal Processing
 
 I'm currently learning a bunch of things:
+- Paralellism
 - Operating system developpement
 - OpenGL
 - Proper Github git workflow
