@@ -22,7 +22,7 @@ I have experience in:
 - Digital Signal Processing
 
 I'm currently learning a bunch of things:
-- Paralellism
+- Parallelism
 - Operating system developpement
 - OpenGL
 - Proper Github git workflow
